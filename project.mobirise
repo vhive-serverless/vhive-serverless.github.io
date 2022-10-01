@@ -787,6 +787,9 @@
             "[class^=\"socicon-\"]:before, [class*=\" socicon-\"]:before": {
               "line-height": "55px",
               "padding": ".6rem"
+            },
+            ".mbr-section-title, .social-list": {
+              "color": "#e85a4f"
             }
           },
           "_name": "share3",
