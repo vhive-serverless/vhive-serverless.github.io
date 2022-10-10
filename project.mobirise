@@ -37,7 +37,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "vHive website",
+    "name": "The vHive Ecosystem",
     "versionFirst": "5.5.2",
     "siteFonts": [
       {
@@ -48,26 +48,28 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/vhive-emblem-rgb_1.svg",
-    "mbrsiteDomain": "mtmckzvpec",
+    "mbrsiteDomain": "f4jzcrgvi9",
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://vhive-serverless.github.io",
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 9,
     "versionPublish": "5.5.2",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "vHive",
-        "meta_descr": "vHive Ecosystem for Serverless Experimentation and Innovation",
+        "title": "The vHive Ecosystem for Serverless Systems Research",
+        "meta_descr": "A full-stack open-source ecosystem for serverless clouds benchmarking, experimentation, and innovation",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/vhive-emblem-rgb.svg"
       },
       "components": [
         {
