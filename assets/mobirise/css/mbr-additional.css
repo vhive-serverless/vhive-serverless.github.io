@@ -1125,24 +1125,38 @@ a {
 .cid-tj1ZxrZ2Cw .mbr-section-title {
   color: #e85a4f;
 }
-.cid-tj25mP1tnH {
+.cid-tjSRYJukva {
   padding-top: 0rem;
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-tj25mP1tnH .bg-slack {
-  background: #4a154b;
-  color: #ffffff;
+.cid-tjSRYJukva .mbr-section-subtitle {
+  text-align: center;
 }
-.cid-tj25mP1tnH .bg-slack:hover {
-  background: #230a23;
+.cid-tjSRYJukva .mbr-section-title {
+  color: #e85a4f;
 }
-.cid-tj25mP1tnH .bg-youtube {
-  background: #ff0000;
-  color: #ffffff;
+.cid-tjSTEBVmKP {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
 }
-.cid-tj25mP1tnH .bg-youtube:hover {
-  background: #cc0000;
+.cid-tjSTEBVmKP .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-tjSTEBVmKP form .mbr-section-btn {
+  text-align: center;
+  margin-bottom: 1.2rem;
+}
+.cid-tjSTEBVmKP form .mbr-section-btn .btn {
+  width: 100%;
+  height: 100%;
+}
+.cid-tj25mP1tnH {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
 }
 .cid-tj25mP1tnH .iconfont-wrapper {
   display: inline-block;
